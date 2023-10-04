@@ -3,15 +3,36 @@ import { checkData, checkApi } from "./check.js";
 import { crosscheckData } from "./crosscheck.js";
 import { sendWA } from "./send.js";
 
-// Run every at minute 40 every hour
-// cron.schedule("40 * * * *", async () => {
-//   run("30");
-// });
-
-// Run every at minute 10 every hour
-cron.schedule("10 * * * *", async () => {
+if (process.env.NODE_ENV === "production") {
+  console.log("Running in production mode");
+  // Jam 00 UTC
+  cron.schedule("10 0 * * *", async () => {
+    run("00");
+  });
+  // Jam 03 UTC
+  cron.schedule("10 3 * * *", async () => {
+    run("00");
+  });
+  // Jam 06 UTC
+  cron.schedule("10 6 * * *", async () => {
+    run("00");
+  });
+  // Jam 09 UTC
+  cron.schedule("10 9 * * *", async () => {
+    run("00");
+  });
+  // Jam 12 UTC
+  cron.schedule("10 12 * * *", async () => {
+    run("00");
+  });
+  // Jam 21 UTC
+  cron.schedule("10 21 * * *", async () => {
+    run("00");
+  });
+} else {
+  console.log("Running in development mode");
   run("00");
-});
+}
 
 const date = new Date();
 console.log("Running a task every minute 10" + date);
