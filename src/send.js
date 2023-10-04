@@ -61,6 +61,7 @@ const sendWA = (result, jam) => {
     formData: {
       phone: targetNumber,
       message: message,
+      isGroup: "true",
     },
   };
   request(options, function (error, response) {
