@@ -1,0 +1,490 @@
+[
+  {
+    "icaoId": "WAAA",
+    "name": "Sultan Hasanuddin - Makassar"
+  },
+  {
+    "icaoId": "WABB",
+    "name": "Frans Kaisiepo - Biak"
+  },
+  {
+    "icaoId": "WABI",
+    "name": "Douw Aturure - Nabire"
+  },
+  {
+    "icaoId": "WABO",
+    "name": "Stevanus Rumbewas - Serui"
+  },
+  {
+    "icaoId": "WADB",
+    "name": "Sultan Muhammad Salahuddin - Bima"
+  },
+  {
+    "icaoId": "WADD",
+    "name": "I Gusti Ngurah Rai - Denpasar"
+  },
+  {
+    "icaoId": "WADL",
+    "name": "Bandara Internasional Lombok - Praya"
+  },
+  {
+    "icaoId": "WADS",
+    "name": "Sultan Muhammad Kaharuddin - Sumbawa Besar"
+  },
+  {
+    "icaoId": "WADY",
+    "name": "Banyuwangi"
+  },
+  {
+    "icaoId": "WAEE",
+    "name": "Sultan Babullah - Ternate"
+  },
+  {
+    "icaoId": "WAEG",
+    "name": "Gamar Malamo - Galela"
+  },
+  {
+    "icaoId": "WAEK",
+    "name": "Kuabang Kao"
+  },
+  {
+    "icaoId": "WAEL",
+    "name": "Oesman Sadik - Labuha"
+  },
+  {
+    "icaoId": "WAES",
+    "name": "Emalamo - Sanana"
+  },
+  {
+    "icaoId": "WAEW",
+    "name": "Pitu - Morotai"
+  },
+  {
+    "icaoId": "WAFF",
+    "name": "Mutiara SIS Al-Jufri - Palu"
+  },
+  {
+    "icaoId": "WAFJ",
+    "name": "Tampa Padang - Mamuju"
+  },
+  {
+    "icaoId": "WAFL",
+    "name": "Sultan Bantilan - Toli Toli"
+  },
+  {
+    "icaoId": "WAFM",
+    "name": "Andi Jemma - Masamba"
+  },
+  {
+    "icaoId": "WAFP",
+    "name": "Kasiguncu - Poso"
+  },
+  {
+    "icaoId": "WAFT",
+    "name": "Pongtiku - Tana Toraja"
+  },
+  {
+    "icaoId": "WAFW",
+    "name": "Syukuran Aminuddin Amir - Luwuk"
+  },
+  {
+    "icaoId": "WAGB",
+    "name": "Beringin - Muara Teweh"
+  },
+  {
+    "icaoId": "WAGG",
+    "name": "Tjilik Riwut - Palangkaraya"
+  },
+  {
+    "icaoId": "WAGI",
+    "name": "Iskandar - Pangkalan Bun"
+  },
+  {
+    "icaoId": "WAGM",
+    "name": "Sanggu - Buntok"
+  },
+  {
+    "icaoId": "WAGS",
+    "name": "Haji Asan - Sampit"
+  },
+  {
+    "icaoId": "WAHH",
+    "name": "Adi Sutjipto - Yogyakarta"
+  },
+  {
+    "icaoId": "WAHI",
+    "name": "Yogyakarta International Airport - Kulonprogo"
+  },
+  {
+    "icaoId": "WAHL",
+    "name": "Tunggul Wulung - Cilacap"
+  },
+  {
+    "icaoId": "WAHQ",
+    "name": "Adi Soemarmo - Surakarta"
+  },
+  {
+    "icaoId": "WAHS",
+    "name": "Ahmad Yani - Semarang"
+  },
+  {
+    "icaoId": "WAJI",
+    "name": "Mararena / Orai - Sarmi"
+  },
+  {
+    "icaoId": "WAJJ",
+    "name": "Sentani - Jayapura"
+  },
+  {
+    "icaoId": "WAKK",
+    "name": "Mopah - Merauke"
+  },
+  {
+    "icaoId": "WAKT",
+    "name": "Tanah Merah"
+  },
+  {
+    "icaoId": "WALL",
+    "name": "Sultan Aji Muhammad Sulaiman - Sepinggan"
+  },
+  {
+    "icaoId": "WALS",
+    "name": "Aji Pangeran Tumenggung Pranoto - Samarinda"
+  },
+  {
+    "icaoId": "WAMG",
+    "name": "Djalaluddin - Gorontalo"
+  },
+  {
+    "icaoId": "WAMH",
+    "name": "Naha - Tahuna"
+  },
+  {
+    "icaoId": "WAMM",
+    "name": "Sam Ratulangi - Manado"
+  },
+  {
+    "icaoId": "WAOK",
+    "name": "Gusti Sjamsir Alam - Kota Baru"
+  },
+  {
+    "icaoId": "WAOO",
+    "name": "Syamsudin Noor - Banjarmasin"
+  },
+  {
+    "icaoId": "WAPA",
+    "name": "Amahai"
+  },
+  {
+    "icaoId": "WAPC",
+    "name": "Bandaneira - Banda"
+  },
+  {
+    "icaoId": "WAPF",
+    "name": "Karel Sadsuitubun - Tual"
+  },
+  {
+    "icaoId": "WAPP",
+    "name": "Pattimura - Ambon"
+  },
+  {
+    "icaoId": "WAPR",
+    "name": "Namniwel - Namlea"
+  },
+  {
+    "icaoId": "WAPS",
+    "name": "Mathilda Batlayeri - Saumlaki"
+  },
+  {
+    "icaoId": "WAQA",
+    "name": "Nunukan"
+  },
+  {
+    "icaoId": "WAQD",
+    "name": "Tanjung Harapan - Tanjung Selor"
+  },
+  {
+    "icaoId": "WAQJ",
+    "name": "Yuvai Semaring - Long Bawang"
+  },
+  {
+    "icaoId": "WAQQ",
+    "name": "Juwata - Tarakan"
+  },
+  {
+    "icaoId": "WAQT",
+    "name": "Kalimarau - Tanjung Redeb"
+  },
+  {
+    "icaoId": "WARA",
+    "name": "Abdulrachman Saleh - Malang"
+  },
+  {
+    "icaoId": "WARE",
+    "name": "Noto Hadinegoro - Jember"
+  },
+  {
+    "icaoId": "WARI",
+    "name": "Iswahjudi - Madiun"
+  },
+  {
+    "icaoId": "WARR",
+    "name": "Juanda - Surabaya"
+  },
+  {
+    "icaoId": "WART",
+    "name": "Trunojoyo - Sumenep"
+  },
+  {
+    "icaoId": "WARW",
+    "name": "Bawean - Harun Thohir"
+  },
+  {
+    "icaoId": "WASF",
+    "name": "Torea - Fak Fak"
+  },
+  {
+    "icaoId": "WASK",
+    "name": "Utarom - Kaimana"
+  },
+  {
+    "icaoId": "WASS",
+    "name": "Domine Eduard Osok - Sorong"
+  },
+  {
+    "icaoId": "WATA",
+    "name": "A.A. Bere Talo / Atambua"
+  },
+  {
+    "icaoId": "WATB",
+    "name": "SOA - Bajawa"
+  },
+  {
+    "icaoId": "WATC",
+    "name": "Fransiskus Xaverius Seda - Maumere"
+  },
+  {
+    "icaoId": "WATE",
+    "name": "H. Hasan Aroeboesman - Ende"
+  },
+  {
+    "icaoId": "WATG",
+    "name": "Frans Sales Lega - Ruteng"
+  },
+  {
+    "icaoId": "WATK",
+    "name": "Tambolaka - Sumba Barat"
+  },
+  {
+    "icaoId": "WATL",
+    "name": "Gewayantana - Larantuka"
+  },
+  {
+    "icaoId": "WATM",
+    "name": "Mali - Alor"
+  },
+  {
+    "icaoId": "WATO",
+    "name": "Komodo - Labuan Bajo"
+  },
+  {
+    "icaoId": "WATR",
+    "name": "David Constantijn Saudale - Rote"
+  },
+  {
+    "icaoId": "WATS",
+    "name": "Tardamu - Sabu"
+  },
+  {
+    "icaoId": "WATT",
+    "name": "El Tari - Kupang"
+  },
+  {
+    "icaoId": "WATU",
+    "name": "Umbu Mehang Kunda - Waingapu"
+  },
+  {
+    "icaoId": "WAUU",
+    "name": "Rendani - Manokwari"
+  },
+  {
+    "icaoId": "WAVV",
+    "name": "Wamena"
+  },
+  {
+    "icaoId": "WAWB",
+    "name": "Beto Ambari - Bau Bau"
+  },
+  {
+    "icaoId": "WAWP",
+    "name": "Sangia Nibandera - Kolaka"
+  },
+  {
+    "icaoId": "WAWW",
+    "name": "Haluoleo - Kendari"
+  },
+  {
+    "icaoId": "WAYE",
+    "name": "Enarotali"
+  },
+  {
+    "icaoId": "WAYY",
+    "name": "Mozes Kilangin - Timika"
+  },
+  {
+    "icaoId": "WIBB",
+    "name": "Sultan Syarif Kasim II - Pekanbaru"
+  },
+  {
+    "icaoId": "WIBJ",
+    "name": "Japura - Rengat"
+  },
+  {
+    "icaoId": "WICA",
+    "name": "Kertajati"
+  },
+  {
+    "icaoId": "WICC",
+    "name": "Husein Sastranegara - Bandung"
+  },
+  {
+    "icaoId": "WICD",
+    "name": "Cakrabhuwana / Penggung - Cirebon"
+  },
+  {
+    "icaoId": "WICM",
+    "name": "Wiriadinata - Cibeureum"
+  },
+  {
+    "icaoId": "WICS",
+    "name": "Suryadarma - Kalijati"
+  },
+  {
+    "icaoId": "WIDD",
+    "name": "Hang Nadim - Batam"
+  },
+  {
+    "icaoId": "WIDN",
+    "name": "Raja Haji Fisabilillah - Tanjung Pinang"
+  },
+  {
+    "icaoId": "WIDO",
+    "name": "Ranai - Natuna"
+  },
+  {
+    "icaoId": "WIDS",
+    "name": "Dabo - Singkep"
+  },
+  {
+    "icaoId": "WIDT",
+    "name": "Raja Haji Abdullah - Tanjung Balai Karimun"
+  },
+  {
+    "icaoId": "WIEE",
+    "name": "Minangkabau International Airport - Padang"
+  },
+  {
+    "icaoId": "WIGG",
+    "name": "Fatmawati Sukarno - Bengkulu"
+  },
+  {
+    "icaoId": "WIHH",
+    "name": "Halim Perdana Kusuma - Jakarta"
+  },
+  {
+    "icaoId": "WIHJ",
+    "name": "Atang Sendjaja - Bogor"
+  },
+  {
+    "icaoId": "WIII",
+    "name": "Soekarno Hatta - Jakarta"
+  },
+  {
+    "icaoId": "WIJI",
+    "name": "Depati Parbo - Kerinci"
+  },
+  {
+    "icaoId": "WIJJ",
+    "name": "Sultan Thaha - Jambi"
+  },
+  {
+    "icaoId": "WIKK",
+    "name": "Depati Amir - Pangkal Pinang"
+  },
+  {
+    "icaoId": "WIKT",
+    "name": "H.A.S. Hanandjoeddin - Tanjung Pandan"
+  },
+  {
+    "icaoId": "WILL",
+    "name": "Radin Inten II - Lampung"
+  },
+  {
+    "icaoId": "WILM",
+    "name": "Astra Ksetra - Lampung"
+  },
+  {
+    "icaoId": "WIMA",
+    "name": "Malikus Saleh - Lhokseumawe"
+  },
+  {
+    "icaoId": "WIMB",
+    "name": "Binaka - Gunung Sitoli"
+  },
+  {
+    "icaoId": "WIME",
+    "name": "Aek Godang - Padang Sidempuan"
+  },
+  {
+    "icaoId": "WIMM",
+    "name": "Kualanamu International Airport - Deli Serdang"
+  },
+  {
+    "icaoId": "WIMN",
+    "name": "Silangit - Tapanuli Utara"
+  },
+  {
+    "icaoId": "WIMS",
+    "name": "Dr. Ferdinand Lumban Tobing - Pinangsori (Sibolga)"
+  },
+  {
+    "icaoId": "WIOG",
+    "name": "Nanga Pinoh"
+  },
+  {
+    "icaoId": "WIOK",
+    "name": "Rahadi Oesman - Ketapang"
+  },
+  {
+    "icaoId": "WIOO",
+    "name": "Supadio - Pontianak"
+  },
+  {
+    "icaoId": "WIOP",
+    "name": "Pangsuma - Putussibau"
+  },
+  {
+    "icaoId": "WIOS",
+    "name": "Tebelian - Sintang"
+  },
+  {
+    "icaoId": "WIPP",
+    "name": "Sultan Mahmud Badaruddin II - Palembang"
+  },
+  {
+    "icaoId": "WIRR",
+    "name": "Budiarto - Curug"
+  },
+  {
+    "icaoId": "WITC",
+    "name": "Cut Nyak Dien Nagan Raya - Meulaboh"
+  },
+  {
+    "icaoId": "WITN",
+    "name": "Maimun Saleh - Sabang"
+  },
+  {
+    "icaoId": "WITT",
+    "name": "Sultan Iskandar Muda - Banda Aceh"
+  }
+]
