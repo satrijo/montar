@@ -34,5 +34,3 @@ async function run(jam) {
     console.error("Error in run():", error);
   }
 }
-
-run("00");
