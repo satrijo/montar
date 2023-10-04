@@ -34,9 +34,6 @@ if (process.env.NODE_ENV === "production") {
   run("00");
 }
 
-const date = new Date();
-console.log("Running a task every minute 10" + date);
-
 const stasiun = checkData();
 
 async function run(jam) {
