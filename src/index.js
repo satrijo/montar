@@ -25,6 +25,10 @@ if (process.env.NODE_ENV === "production") {
   cron.schedule("10 12 * * *", async () => {
     run("00");
   });
+  // Jam 15 UTC
+  cron.schedule("10 15 * * *", async () => {
+    run("00");
+  });
   // Jam 21 UTC
   cron.schedule("10 21 * * *", async () => {
     run("00");

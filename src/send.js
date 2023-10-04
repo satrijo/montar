@@ -5,6 +5,7 @@ env.config();
 const tokenWA = process.env.TOKEN_WA;
 const urlWA = process.env.URL_WA;
 const targetNumber = process.env.TARGET_NUMBER;
+const isGroup = process.env.IS_GROUP;
 
 const sendWA = (result, jam) => {
   // date UTC Greenwich
@@ -61,7 +62,7 @@ const sendWA = (result, jam) => {
     formData: {
       phone: targetNumber,
       message: message,
-      isGroup: "true",
+      isGroup: isGroup,
     },
   };
   request(options, function (error, response) {
