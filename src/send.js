@@ -46,7 +46,7 @@ const sendWA = (result, jam) => {
   const jamUTC = date.getUTCHours();
 
   let message = "";
-  message += `Laporan Monitoring METAR ${hariIni}, ${tanggalIni} ${bulanIni} ${date.getFullYear()},*pukul* ${jamUTC}:${jam}UTC\n\n`;
+  message += `Laporan Monitoring METAR ${hariIni}, ${tanggalIni} ${bulanIni} ${date.getFullYear()}, *pukul* ${jamUTC}:${jam} UTC\n\n`;
 
   message += `Stasiun yang *tidak tersedia* pada database Aviation \nadalah:\n\n`;
 
