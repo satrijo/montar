@@ -6,31 +6,43 @@ import { sendWA } from "./send.js";
 if (process.env.NODE_ENV === "production") {
   console.log("Running in production mode");
   // Jam 00 UTC
-  cron.schedule("10 0 * * *", async () => {
+  cron.schedule("15 0 * * *", async () => {
+    run("00");
+  });
+  // Jam 01 UTC
+  cron.schedule("15 1 * * *", async () => {
+    run("00");
+  });
+  // Jam 02 UTC
+  cron.schedule("15 2 * * *", async () => {
     run("00");
   });
   // Jam 03 UTC
-  cron.schedule("10 3 * * *", async () => {
+  cron.schedule("15 3 * * *", async () => {
     run("00");
   });
   // Jam 06 UTC
-  cron.schedule("10 6 * * *", async () => {
+  cron.schedule("15 6 * * *", async () => {
     run("00");
   });
   // Jam 09 UTC
-  cron.schedule("10 9 * * *", async () => {
+  cron.schedule("15 9 * * *", async () => {
     run("00");
   });
   // Jam 12 UTC
-  cron.schedule("10 12 * * *", async () => {
+  cron.schedule("15 12 * * *", async () => {
     run("00");
   });
   // Jam 15 UTC
-  cron.schedule("10 15 * * *", async () => {
+  cron.schedule("15 15 * * *", async () => {
+    run("00");
+  });
+  // Jam 18 UTC
+  cron.schedule("15 18 * * *", async () => {
     run("00");
   });
   // Jam 21 UTC
-  cron.schedule("10 21 * * *", async () => {
+  cron.schedule("15 21 * * *", async () => {
     run("00");
   });
 } else {
