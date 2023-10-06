@@ -6,23 +6,28 @@ import env from "dotenv";
 env.config();
 
 let targetNumber = process.env.TARGET_NUMBER;
-const numberAviation = "120363043457245549";
 targetNumber = targetNumber.split(",");
 
-const hours = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15, 18, 21];
+const numberAviation = "120363043457245549";
+
+const hours = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 18, 21];
 const aviation = [0, 3, 6, 9, 12, 15, 18, 21];
 
 if (process.env.NODE_ENV === "production") {
   console.log("Running in production mode");
   for (const hour of hours) {
-    const scheduleTime = `15 ${hour} * * *`;
+    const scheduleTime = `04 ${hour} * * *`;
     cron.schedule(scheduleTime, async () => {
-      for (number of targetNumber) {
+      console.log(`Running cron job at ${hour} UTC`);
+
+      for (let number of targetNumber) {
         if (number == numberAviation) {
           if (aviation.includes(hour)) {
+            console.log("Running aviation");
             run("00", number);
           }
         } else {
+          console.log("Running DIP");
           run("00", number);
         }
       }
