@@ -11,7 +11,7 @@ targetNumber = targetNumber.split(",");
 const numberAviation = "120363043457245549";
 
 const hours = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 18, 21];
-const aviation = [0, 3, 6, 9, 12, 15, 18, 21];
+const aviation = [0, 3, 4, 6, 9, 12, 15, 18, 21];
 
 if (process.env.NODE_ENV === "production") {
   console.log("Running in production mode");
