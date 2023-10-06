@@ -4,10 +4,9 @@ env.config();
 
 const tokenWA = process.env.TOKEN_WA;
 const urlWA = process.env.URL_WA;
-const targetNumber = process.env.TARGET_NUMBER;
 const isGroup = process.env.IS_GROUP;
 
-const sendWA = (result, jam) => {
+const sendWA = (result, menit, targetNumber) => {
   // date UTC Greenwich
   const date = new Date();
   const dateIndo = date;
@@ -46,7 +45,7 @@ const sendWA = (result, jam) => {
   const jamUTC = date.getUTCHours();
 
   let message = "";
-  message += `Laporan Monitoring METAR ${hariIni}, ${tanggalIni} ${bulanIni} ${date.getFullYear()}, *pukul* ${jamUTC}:${jam} UTC\n\n`;
+  message += `Laporan Monitoring METAR ${hariIni}, ${tanggalIni} ${bulanIni} ${date.getFullYear()}, *pukul* ${jamUTC}:${menit} UTC\n\n`;
 
   message += `Stasiun yang *tidak tersedia* pada database Aviation \nadalah:\n\n`;
 
