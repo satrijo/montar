@@ -1,5 +1,6 @@
 import request from "request";
 import env from "dotenv";
+import fs from "fs";
 env.config();
 
 const tokenWA = process.env.TOKEN_WA;
@@ -7,6 +8,11 @@ const urlWA = process.env.URL_WA;
 const isGroup = process.env.IS_GROUP;
 
 const sendWA = (result, menit, targetNumber) => {
+  const stasiun = JSON.parse(fs.readFileSync("./src/stasiun.json", "utf8"));
+  const totalStasiun = stasiun.length;
+  const notAvailable = result.length;
+  let percentage = (notAvailable / totalStasiun) * 100;
+  percentage = percentage.toFixed(2);
   // date UTC Greenwich
   const date = new Date();
   const dateIndo = date;
@@ -45,13 +51,17 @@ const sendWA = (result, menit, targetNumber) => {
   const jamUTC = date.getUTCHours();
 
   let message = "";
-  message += `Laporan Monitoring METAR ${hariIni}, ${tanggalIni} ${bulanIni} ${date.getFullYear()}, *pukul* ${jamUTC}:${menit} UTC\n\n`;
+  message += `Laporan Monitoring METAR \n${hariIni}, ${tanggalIni} ${bulanIni} ${date.getFullYear()}, *pukul* ${jamUTC}:${menit} UTC\n\n`;
 
   message += `Stasiun yang *tidak tersedia* pada database Aviation \nadalah:\n\n`;
+
+  message += `Prosentase Tidak Tersedia: ${notAvailable}/${totalStasiun} = ${percentage}%\n\n`;
 
   for (let i = 0; i < result.length; i++) {
     message += `${result[i][0]} - ${result[i][1]}\n`;
   }
+
+  message += `\n\n*Note: _Digenerate pada tanggal ${dateIndo}_*\n`;
   var options = {
     method: "POST",
     url: urlWA,
