@@ -1,0 +1,1118 @@
+[
+  {
+    "head_email": "harie.twb@gmail.com",
+    "icao": "WAAA",
+    "name": "Sultan Hasanuddin - Makassar",
+    "from": 0,
+    "to": 23,
+    "wa": 6285399271060,
+    "opr_email": "stamethnd.mks@gmail.com"
+  },
+  {
+    "head_email": "ishlaha19@gmail.com",
+    "icao": "WAPR",
+    "name": "Namniwel - Namlea",
+    "from": 0,
+    "to": 12,
+    "wa": 6281357118159,
+    "opr_email": "stametnamlea700@gmail.com"
+  },
+  {
+    "head_email": "bagus.pramujo@bmkg.go.id",
+    "icao": "WAHL",
+    "name": "Tunggul Wulung - Cilacap",
+    "from": 0,
+    "to": 8,
+    "wa": 628112706805,
+    "opr_email": "stamet.cilacap@bmkg.go.id"
+  },
+  {
+    "head_email": "meteobima@gmail.com",
+    "icao": "WADB",
+    "name": "Sultan Muhammad Salahuddin - Bima",
+    "from": 0,
+    "to": 23,
+    "wa": 6282340448422,
+    "opr_email": "meteobima@gmail.com"
+  },
+  {
+    "head_email": "younggy.hutabarat@bmkg.go.id",
+    "icao": "WIDT",
+    "name": "Raja Haji Abdullah - Tanjung Balai Karimun",
+    "from": 0,
+    "to": 23,
+    "wa": 6281270186433,
+    "opr_email": "stamet.karimun@bmkg.go.id"
+  },
+  {
+    "head_email": "bmkgkalianget1@gmail.com",
+    "icao": "WART",
+    "name": "Badara Trunojoyo Sumenep Jawa Timur",
+    "from": 0,
+    "to": 14,
+    "wa": 6282322291297,
+    "opr_email": "bmkgkalianget1@gmail.com"
+  },
+  {
+    "head_email": "oprstametposo@gmail.com",
+    "icao": "WAFP",
+    "name": "Kasiguncu - Poso",
+    "from": 0,
+    "to": 23,
+    "wa": 6282293919966,
+    "opr_email": "oprstametposo@gmail.com"
+  },
+  {
+    "head_email": "stametgalelamaluku@gmail.com",
+    "icao": "WAEG",
+    "name": "Gamar Malamo - Galela",
+    "from": 0,
+    "to": 23,
+    "wa": 6281265769491,
+    "opr_email": "stamet.gamarmalamo@bmkg.go.id"
+  },
+  {
+    "head_email": "stamet.japura@bmkg.go.id",
+    "icao": "WIBJ",
+    "name": "Japura - Rengat",
+    "from": 0,
+    "to": 23,
+    "wa": 628117696171,
+    "opr_email": "stamet.japura@bmkg.go.id"
+  },
+  {
+    "head_email": "cipta.utama@bmkg.go.id",
+    "icao": "WAPB",
+    "name": "Kufar Airport - Seram Timur, Maluku",
+    "from": 0,
+    "to": 23,
+    "wa": 628114708223,
+    "opr_email": "stamet.geser97748@gmail.com"
+  },
+  {
+    "head_email": "stamet.dabosingkep@bmkg.go.id",
+    "icao": "WIDS",
+    "name": "Dabo - Singkep",
+    "from": 0,
+    "to": 23,
+    "wa": 6285658556802,
+    "opr_email": "stamet.dabosingkep@bmkg.go.id"
+  },
+  {
+    "head_email": "abuyazidtnt@gmail.com",
+    "icao": "WAEL",
+    "name": "Oesman Sadik - Labuha",
+    "from": 0,
+    "to": 23,
+    "wa": 6285280599185,
+    "opr_email": "stamet.oesmansadik@bmkg.go.id"
+  },
+  {
+    "head_email": "ratna.komala@bmkg.go.id",
+    "icao": "WIRR",
+    "name": "Budiarto - Curug",
+    "from": 0,
+    "to": 23,
+    "wa": 6281210009102,
+    "opr_email": "onduty.stametbudiarto@gmail.com"
+  },
+  {
+    "head_email": "nur.setiawan@bmkg.go.id",
+    "icao": "WAGM",
+    "name": "Sanggu - Buntok",
+    "from": 0,
+    "to": 10,
+    "wa": 6285100703419,
+    "opr_email": "stamet.sanggu@bmkg.go.id"
+  },
+  {
+    "head_email": "kurniajipnb@gmail.com",
+    "icao": "WIKK",
+    "name": "Depati Amir - Pangkal Pinang",
+    "from": 21,
+    "to": 11,
+    "wa": 628127175692,
+    "opr_email": "stamet.pangkalpinang@bmkg.go.id"
+  },
+  {
+    "head_email": "herald.betah@bmkg.go.id",
+    "icao": "WABO",
+    "name": "Stevanus Rumbewas - Serui",
+    "from": 0,
+    "to": 23,
+    "wa": "",
+    "opr_email": "operasionalwabo@gmail.com"
+  },
+  {
+    "head_email": "meteosamrat@gmail.com",
+    "icao": "WAMM",
+    "name": "Sam Ratulangi - Manado",
+    "from": 0,
+    "to": 0,
+    "wa": 6281143200877,
+    "opr_email": "opr.stametsamrat@gmail.com"
+  },
+  {
+    "head_email": "dharmawan.adhi@bmkg.go.id",
+    "icao": "WIOH",
+    "name": "Stasiun Meteorologi Paloh Sambas",
+    "from": 0,
+    "to": 23,
+    "wa": 6281156511000,
+    "opr_email": "stamet.paloh@bmkg.go.id"
+  },
+  {
+    "head_email": "hairul.zulkifli@bmkg.go.id",
+    "icao": "WAOK",
+    "name": "Gusti Sjamsir Alam - Kota Baru",
+    "from": 0,
+    "to": 23,
+    "wa": 628115578787,
+    "opr_email": "stamet.kotabaru@bmkg.go.id"
+  },
+  {
+    "head_email": "stametbandaneira97790@gmail.com",
+    "icao": "WAPC",
+    "name": "Bandaneira - Maluku Tengah",
+    "from": 0,
+    "to": 23,
+    "wa": 6281383467568,
+    "opr_email": "stametbandaneira97790@gmail.com"
+  },
+  {
+    "head_email": "decky.irmawan@bmkg.go.id",
+    "icao": "WATG",
+    "name": "Frans Sales Lega - Ruteng",
+    "from": 22,
+    "to": 15,
+    "wa": 6281282736939,
+    "opr_email": "stamet.franssaleslega@bmkg.go.id"
+  },
+  {
+    "head_email": "etrikbmgluwuk@gmail.com",
+    "icao": "WAFF",
+    "name": "Mutiara Sis Al-Jufri - Palu",
+    "from": 0,
+    "to": 23,
+    "wa": 6282393000878,
+    "opr_email": "stamet.mutiarapalu@bmkg.go.id"
+  },
+  {
+    "head_email": "burhanuddin@bmkg.go.id",
+    "icao": "WAFT",
+    "name": "Stasiun Mteorologi Toraja",
+    "from": 0,
+    "to": 12,
+    "wa": 628114209533,
+    "opr_email": "bmkg.toraja@gmail.com"
+  },
+  {
+    "head_email": "devikamam93@gmail.com",
+    "icao": "WAPF",
+    "name": "Karel Sadsuitubun - Tual",
+    "from": 0,
+    "to": 23,
+    "wa": 6285256992702,
+    "opr_email": "stamet.karelsadsuitubun@bmkg.go.id"
+  },
+  {
+    "head_email": "dyan.anggrainy@bmkg.go.id",
+    "icao": "WICA",
+    "name": "Kertajati",
+    "from": 21,
+    "to": 14,
+    "wa": 628112281133,
+    "opr_email": "stamet.kertajati@bmkg.go.id"
+  },
+  {
+    "head_email": "bmkg.luwuk@gmail.com",
+    "icao": "WAFW",
+    "name": "Syukuran Aminuddin Amir - Luwuk",
+    "from": 0,
+    "to": 0,
+    "wa": 6282195104263,
+    "opr_email": "bmkg.luwuk@gmail.com"
+  },
+  {
+    "head_email": "erisa.sandi@bmkg.go.id",
+    "icao": "WIJI",
+    "name": "Depati Parbo - Kerinci",
+    "from": 0,
+    "to": 23,
+    "wa": 628117480336,
+    "opr_email": "stamet.kerinci@bmkg.go.id"
+  },
+  {
+    "head_email": "mulya.afriyanto@bmkg.go.id",
+    "icao": "WATC",
+    "name": "Fransiskus Xaverius Seda - Maumere",
+    "from": 0,
+    "to": 0,
+    "wa": 6282145374327,
+    "opr_email": "bmkg.maumere@gmail.com"
+  },
+  {
+    "head_email": "stamet.samarinda@bmkg.go.id",
+    "icao": "WALS",
+    "name": "Aji Pangeran Tumenggung Pranoto - Samarinda",
+    "from": 0,
+    "to": 23,
+    "wa": 6282121268952,
+    "opr_email": "stamet.samarinda@bmkg.go.id"
+  },
+  {
+    "head_email": "stamet.sumbawa@bmkg.go.id",
+    "icao": "WADS",
+    "name": "Sultan Muhammad Kaharuddin - Sumbawa Besar",
+    "from": 0,
+    "to": 23,
+    "wa": 6282269621109,
+    "opr_email": "stamet.sumbawabesar@bmkg.go.id"
+  },
+  {
+    "head_email": "setiawan.raharjo@bmkg.go.id",
+    "icao": "WAFJ",
+    "name": "Tampa Padang - Mamuju",
+    "from": 21,
+    "to": 9,
+    "wa": 6285159119712,
+    "opr_email": "stamet.majene@bmkg.go.id"
+  },
+  {
+    "head_email": "subahari@bmkg.go.id",
+    "icao": "WAVV",
+    "name": "Wamena",
+    "from": 21,
+    "to": 7,
+    "wa": 6282137788358,
+    "opr_email": "stamet.wamena@bmkg.go.id"
+  },
+  {
+    "head_email": "dyan.anggrainy@bmkg.go.id",
+    "icao": "WICD",
+    "name": "Cakrabhuwana / Penggung - Cirebon",
+    "from": 0,
+    "to": 9,
+    "wa": 6281120042222,
+    "opr_email": "stamet.kertajati@bmkg.go.id"
+  },
+  {
+    "head_email": "karmana@bmkg.go.id",
+    "icao": "WAOO",
+    "name": "Stamet Syamsudin Noor Banjarmasin",
+    "from": 0,
+    "to": 23,
+    "wa": 628115133214,
+    "opr_email": "fct.bdjwaoo@gmail.com"
+  },
+  {
+    "head_email": "tatausahastametsorong@gmail.com",
+    "icao": "WASS",
+    "name": "Domine Eduard Osok - Sorong",
+    "from": 20,
+    "to": 10,
+    "wa": 628114800075,
+    "opr_email": "stametsorong@gmail.com"
+  },
+  {
+    "head_email": "cindisihotang06@gmail.com",
+    "icao": "WIMN",
+    "name": "Stasiun Meteorologi Silangit",
+    "from": 0,
+    "to": 23,
+    "wa": 6281275384604,
+    "opr_email": "stamet.silangit@bmkg.go.id"
+  },
+  {
+    "head_email": "stamet.mimika@bmkg.go.id",
+    "icao": "WAYY",
+    "name": "Mozes Kilangin - Mimika",
+    "from": 0,
+    "to": 12,
+    "wa": 62811490747,
+    "opr_email": "forecaster.timika@gmail.com"
+  },
+  {
+    "head_email": "fod.ternate@gmail.com",
+    "icao": "WAEE",
+    "name": "Sultan Babullah - Ternate",
+    "from": 0,
+    "to": 23,
+    "wa": 6281241128229,
+    "opr_email": "fod.ternate@gmail.com"
+  },
+  {
+    "head_email": "noor.m250473@gmail.com",
+    "icao": "WIME",
+    "name": "Aek Godang - Padang Sidempuan",
+    "from": 0,
+    "to": 7,
+    "wa": 628116091019,
+    "opr_email": "stamet.aekgodang@bmkg.go.id"
+  },
+  {
+    "head_email": "samsudinah@gmail.com",
+    "icao": "WIKT",
+    "name": "H.A.S. Hanandjoeddin - Tanjung Pandan",
+    "from": 0,
+    "to": 23,
+    "wa": 6285174196249,
+    "opr_email": "stamet.belitung@bmkg.go.id"
+  },
+  {
+    "head_email": "lutfiah.agus07@gmail.com",
+    "icao": "WAHI",
+    "name": "Yogyakarta International Airport - Kulonprogo",
+    "from": 0,
+    "to": 23,
+    "wa": 6285869088292,
+    "opr_email": "Obsyia@gmail.com"
+  },
+  {
+    "head_email": "stamet.enarotali@bmkg.go.id",
+    "icao": "WAYE",
+    "name": "Enarotali",
+    "from": 21,
+    "to": 12,
+    "wa": 6281247906937,
+    "opr_email": "stamet.enarotali@bmkg.go.id"
+  },
+  {
+    "head_email": "dan.forecaster@gmail.com",
+    "icao": "WAUU",
+    "name": "Rendani - Manokwari",
+    "from": 0,
+    "to": 23,
+    "wa": 62811485627,
+    "opr_email": "fctmetmkw@gmail.com"
+  },
+  {
+    "head_email": "stamet.sumbatimur@bmkg.go.id",
+    "icao": "WATU",
+    "name": "Umbu Mehang Kunda - Waingapu",
+    "from": 0,
+    "to": 23,
+    "wa": 6281353160065,
+    "opr_email": "stamet.sumbatimur@bmkg.go.id"
+  },
+  {
+    "head_email": "stamet.sumbatimur@bmkg.go.id",
+    "icao": "WATK",
+    "name": "Pos Meteorologi Tambolaka - Sumba Barat Daya",
+    "from": 23,
+    "to": 10,
+    "wa": 6281237030441,
+    "opr_email": "stamet.sumbatimur@bmkg.go.id"
+  },
+  {
+    "head_email": "erik.handono@bmkg.go.id",
+    "icao": "WIOK",
+    "name": "Rahadi Oesman - Ketapang",
+    "from": 0,
+    "to": 10,
+    "wa": 628115787121,
+    "opr_email": "stamet.ketapang@bmkg.go.id"
+  },
+  {
+    "head_email": "eka.widyatmoko@bmkg.go.id",
+    "icao": "WAFF",
+    "name": "Mutiara Sis Al-Jufri - Palu",
+    "from": 0,
+    "to": 23,
+    "wa": 628114501966,
+    "opr_email": "fct.stametmutiarapalu072@gmail.com"
+  },
+  {
+    "head_email": "forecasterbatam@gmail.com",
+    "icao": "WIDD",
+    "name": "Hang Nadim Batam",
+    "from": 0,
+    "to": 23,
+    "wa": 6281314707352,
+    "opr_email": "forecasterbth@yahoo.com"
+  },
+  {
+    "head_email": "wsetiawan0@gmail.com",
+    "icao": "WAWB",
+    "name": "Beto Ambari - Bau Bau",
+    "from": 0,
+    "to": 23,
+    "wa": 628114037700,
+    "opr_email": "stametbaubau@gmail.com"
+  },
+  {
+    "head_email": "gatot.rudiantoro@bmkg.go.id",
+    "icao": "WAKK",
+    "name": "Mopah - Merauke",
+    "from": 15,
+    "to": 7,
+    "wa": 6281240179732,
+    "opr_email": "stametmerauke@gmail.com"
+  },
+  {
+    "head_email": "agus.yarcana@bmkg.go.id",
+    "icao": "WADD",
+    "name": "I Gusti Ngurah Rai - Denpasar",
+    "from": 0,
+    "to": 23,
+    "wa": 628113977230,
+    "opr_email": "stamet.ngurahrai@bmkg.go.id;"
+  },
+  {
+    "head_email": "bisri7575@gmail.com",
+    "icao": "WADY",
+    "name": "Stasiun Meteorologi Banyuwangi",
+    "from": 0,
+    "to": 23,
+    "wa": 628113270445,
+    "opr_email": "stamet.banyuwangi@bmkg.go.id"
+  },
+  {
+    "head_email": "jemes.wihiawary@bmkg.go.id",
+    "icao": "WASK",
+    "name": "Utarom - Kaimana",
+    "from": 0,
+    "to": 23,
+    "wa": 6285254608852,
+    "opr_email": "kaimanastamet@gmail.com"
+  },
+  {
+    "head_email": "herin.istyarini@bmkg.go.id",
+    "icao": "WADL",
+    "name": "Bandara Internasional Lombok - Praya",
+    "from": 0,
+    "to": 23,
+    "wa": 628113901079,
+    "opr_email": "stamet.lomboktengah@bmkg.go.id"
+  },
+  {
+    "head_email": "stamettardamusabu@gmail.com",
+    "icao": "WATS",
+    "name": "Tardamu - Sabu",
+    "from": 0,
+    "to": 23,
+    "wa": 6281237630164,
+    "opr_email": "stamettardamusabu@yahoo.com"
+  },
+  {
+    "head_email": "tiarnov96@gmail.com",
+    "icao": "WAKT",
+    "name": "Stasiun Meteorologi Kelas III Tanah Merah",
+    "from": 0,
+    "to": 23,
+    "wa": 628114905552,
+    "opr_email": "stasiuntanahmerah@gmail.com"
+  },
+  {
+    "head_email": "andijemma.masamba@gmail.com",
+    "icao": "WAFM",
+    "name": "Andi Jemma - Masamba",
+    "from": 0,
+    "to": 23,
+    "wa": 62811461392,
+    "opr_email": "andijemma.masamba@gmail.com"
+  },
+  {
+    "head_email": "stametbawean@gmail.com",
+    "icao": "WARW",
+    "name": "Bandara Harun Thohir - Bawean",
+    "from": 0,
+    "to": 23,
+    "wa": 6281259987280,
+    "opr_email": "stametbawean@gmail.com"
+  },
+  {
+    "head_email": "sukonagoro@gmail.com",
+    "icao": "WABB",
+    "name": "Frans Kaisiepo - Biak",
+    "from": 0,
+    "to": 23,
+    "wa": 628114822994,
+    "opr_email": "stamet.biak@gmail.com"
+  },
+  {
+    "head_email": "stamet.kalimarau@bmkg.go.id",
+    "icao": "WAQT",
+    "name": "Kalimarau - Tanjung Redeb",
+    "from": 0,
+    "to": 0,
+    "wa": 6281210066913,
+    "opr_email": "stamet.kalimarau@bmkg.go.id"
+  },
+  {
+    "head_email": "stametnangapinoh@gmail.com",
+    "icao": "WIOG",
+    "name": "Nanga Pinoh",
+    "from": 0,
+    "to": 15,
+    "wa": 628115666675,
+    "opr_email": "stamet.pinoh@bmkg.go.id"
+  },
+  {
+    "head_email": "pandurahmatullah@gmail.com",
+    "icao": "WASF",
+    "name": "Torea - Fak Fak",
+    "from": 0,
+    "to": 23,
+    "wa": 6282259533128,
+    "opr_email": "ops.stametfafak@gmail.com"
+  },
+  {
+    "head_email": "aji.supraptaji@bmkg.go.id",
+    "icao": "WAYY",
+    "name": "Mozes Kilangin - Timika",
+    "from": 0,
+    "to": 23,
+    "wa": 62811490747,
+    "opr_email": "forecaster.timika@gmail.com"
+  },
+  {
+    "head_email": "iswahyuono.priambodo@bmkg.go.id",
+    "icao": "WITC",
+    "name": "Cut Nyak Dien Nagan Raya - Meulaboh, Nad",
+    "from": 0,
+    "to": 23,
+    "wa": 6282377518280,
+    "opr_email": "bmkgnaganraya@gmail.com"
+  },
+  {
+    "head_email": "hanifarahmadini@gmail.com",
+    "icao": "WIOS",
+    "name": "Tebelian - Sintang",
+    "from": 0,
+    "to": 23,
+    "wa": 6285787310321,
+    "opr_email": "stamet.tebelian@bmkg.go.id"
+  },
+  {
+    "head_email": "stamet.sarmi@bmkg.go.id",
+    "icao": "WAJI",
+    "name": "Stasiun Meteorologi Kelas III Mararena-Sarmi",
+    "from": 21,
+    "to": 15,
+    "wa": 6281276879492,
+    "opr_email": "stamet.sarmi@bmkg.go.id"
+  },
+  {
+    "head_email": "hanry.xaverius@bmkg.go.id",
+    "icao": "WIMB",
+    "name": "Binaka - Gunung Sitoli",
+    "from": 0,
+    "to": 23,
+    "wa": 6285261457039,
+    "opr_email": "stamet.binaka@bmkg.go.id"
+  },
+  {
+    "head_email": "fctsmb2@gmail.com",
+    "icao": "WIPP",
+    "name": "Sultan Mahmud Badaruddin Ii - Palembang",
+    "from": 0,
+    "to": 23,
+    "wa": 628117878044,
+    "opr_email": "stamet.palembang@bmkg.go.id"
+  },
+  {
+    "head_email": "stametnnk96503@gmail.com",
+    "icao": "WAQA",
+    "name": "Nunukan",
+    "from": 21,
+    "to": 10,
+    "wa": 628113396503,
+    "opr_email": "stametnnk96503@gmail.com"
+  },
+  {
+    "head_email": "ayah.bayoe@gmail.com",
+    "icao": "WIMS",
+    "name": "Dr. Ferdinand Lumban Tobing - Pinangsori (Sibolga)",
+    "from": 0,
+    "to": 23,
+    "wa": 6282161010927,
+    "opr_email": "bmkg.tapteng@gmail.com"
+  },
+  {
+    "head_email": "iriantobambang09@gmail.com",
+    "icao": "WIEE",
+    "name": "Stasiun Meteorologi Minangkabau",
+    "from": 0,
+    "to": 23,
+    "wa": 6282170709581,
+    "opr_email": "stamet.tabing@bmkg.go.id"
+  },
+  {
+    "head_email": "danutriatmoko@gmail.com",
+    "icao": "WAWP",
+    "name": "Sangia Nibandera - Kolaka",
+    "from": 23,
+    "to": 13,
+    "wa": 6285174127142,
+    "opr_email": "stamet.kolaka@bmkg.go.id"
+  },
+  {
+    "head_email": "stamet.sentani97690@gmail.com",
+    "icao": "WAJJ",
+    "name": "Sentani - Jayapura",
+    "from": 0,
+    "to": 23,
+    "wa": 628114819166,
+    "opr_email": "stamet.sentani97690@gmail.com"
+  },
+  {
+    "head_email": "amos.96749@gmail.com",
+    "icao": "WIII",
+    "name": "Soekarno Hatta - Jakarta",
+    "from": 0,
+    "to": 23,
+    "wa": 6281585751050,
+    "opr_email": "amos.96749@gmail.com"
+  },
+  {
+    "head_email": "ida.ceswaraningrat@bmkg.go.id",
+    "icao": "WAQQ",
+    "name": "Juwata - Tarakan",
+    "from": 0,
+    "to": 23,
+    "wa": 628115396509,
+    "opr_email": "stamet.juwata@bmkg.go.id"
+  },
+  {
+    "head_email": "fitri.varian@bmkg.go.id",
+    "icao": "WITN",
+    "name": "Maimun Saleh - Sabang",
+    "from": 0,
+    "to": 23,
+    "wa": 628116788948,
+    "opr_email": "stamet.sabang@bmkg.go.id"
+  },
+  {
+    "head_email": "desindra.kurniawan@bmkg.go.id",
+    "icao": "WIEE",
+    "name": "Minangkabau International Airport - Padang",
+    "from": 0,
+    "to": 23,
+    "wa": 6281268125907,
+    "opr_email": "stamet.minangkabau@bmkg.go.id"
+  },
+  {
+    "head_email": "stamet.pbun@gmail.com",
+    "icao": "WAGI",
+    "name": "Stasiun Meteorologi Kelas III Iskandar - Kotawaringin Barat",
+    "from": 0,
+    "to": 23,
+    "wa": 628115278080,
+    "opr_email": "stamet.pbun@gmail.com"
+  },
+  {
+    "head_email": "nandarinaldy@gmail.com",
+    "icao": "WABI",
+    "name": "Douw Aturure - Nabire",
+    "from": 20,
+    "to": 8,
+    "wa": 6281283202682,
+    "opr_email": "stamet.nabire@bmkg.go.id"
+  },
+  {
+    "head_email": "andi.ilham.tahir@bmkg.go.id",
+    "icao": "WAPS",
+    "name": "Mathilda Batlayeri - Saumlaki",
+    "from": 0,
+    "to": 23,
+    "wa": 6281284674672,
+    "opr_email": "Stamet.mathilda@bmkg.go.id"
+  },
+  {
+    "head_email": "ridwan.nugraha@bmkg.go.id",
+    "icao": "WIOP",
+    "name": "Pangsuma - Putussibau",
+    "from": 0,
+    "to": 23,
+    "wa": 6285787308413,
+    "opr_email": "Stamet.putussibau@bmkg.go.id"
+  },
+  {
+    "head_email": "stamet.tarempa@bmkg.go.id",
+    "icao": "WIDL",
+    "name": "Letung - Anambas",
+    "from": 0,
+    "to": 12,
+    "wa": 6285260001124,
+    "opr_email": "stamet.tarempa@bmkg.go.id"
+  },
+  {
+    "head_email": "meteokupang@gmail.com",
+    "icao": "WATT",
+    "name": "El Tari - Kupang",
+    "from": 0,
+    "to": 23,
+    "wa": 6281139404263,
+    "opr_email": "meteokupang@gmail.com"
+  },
+  {
+    "head_email": "fct.bmkg.sultanthaha@gmail.com",
+    "icao": "WIJJ",
+    "name": "Sultan Thaha - Jambi",
+    "from": 23,
+    "to": 13,
+    "wa": 628117447110,
+    "opr_email": "fct.bmkg.sultanthaha@gmail.com"
+  },
+  {
+    "head_email": "iwan.cahyono@bmkg.go.id",
+    "icao": "WARE",
+    "name": "Noto Hadinegoro - Jember",
+    "from": 0,
+    "to": 8,
+    "wa": 628113270446,
+    "opr_email": "posmetjember@gmail.com"
+  },
+  {
+    "head_email": "bmkgende@gmail.com",
+    "icao": "WATE",
+    "name": "H. Hasan Aroeboesman - Ende",
+    "from": 22,
+    "to": 9,
+    "wa": 6281236819947,
+    "opr_email": "posmet.ende@gmail.com"
+  },
+  {
+    "head_email": "hairul.zulkifli@bmkg.go.id",
+    "icao": "WAOK",
+    "name": "Gusti Syamsir Alam - Kotabaru",
+    "from": 0,
+    "to": 23,
+    "wa": 628115578787,
+    "opr_email": "stamet.kotabaru@bmkg.go.id"
+  },
+  {
+    "head_email": "opr.bmkgkomodo@gmail.com",
+    "icao": "WATO",
+    "name": "Komodo - Labuan Bajo",
+    "from": 0,
+    "to": 23,
+    "wa": 6282144736879,
+    "opr_email": "opr.bmkgkomodo@gmail.com"
+  },
+  {
+    "head_email": "stamet.karimun@bmkg.go.id",
+    "icao": "WIDT",
+    "name": "Raja Haji Abdullah - Tanjung Balai Karimun",
+    "from": 0,
+    "to": 23,
+    "wa": 6281270186433,
+    "opr_email": "stamet.karimun@bmkg.go.id"
+  },
+  {
+    "head_email": "ben.molle@bmkg.go.id",
+    "icao": "WAMN",
+    "name": "Melonguane",
+    "from": 0,
+    "to": 6,
+    "wa": 6281143200877,
+    "opr_email": "opr.stametsamrat@gmail.com"
+  },
+  {
+    "head_email": "musuhanaya@gmail.com",
+    "icao": "WAGS",
+    "name": "Stasiun Meteorologi H.Asan Kotawaringin Timur",
+    "from": 0,
+    "to": 23,
+    "wa": 628115205651,
+    "opr_email": "stamet.hajiasan@bmkg.go.id"
+  },
+  {
+    "head_email": "decky.irmawan@bmkg.go.id",
+    "icao": "WATG",
+    "name": "Frans Sales Lega - Ruteng",
+    "from": 22,
+    "to": 15,
+    "wa": 6281282736939,
+    "opr_email": "opr.stametruteng@gmail.com"
+  },
+  {
+    "head_email": "stamet.geser97748@gmail.com",
+    "icao": "WAPU",
+    "name": "Kufar Airport - Seram Timur, Maluku",
+    "from": 0,
+    "to": 23,
+    "wa": 628124708223,
+    "opr_email": "stamet.geser97748@gmail.com"
+  },
+  {
+    "head_email": "teknisi.mtjr@gmail.com",
+    "icao": "WAGG",
+    "name": "Stasiun Meteorologi Kelas I Tjilik Riwut Palangka Raya",
+    "from": 0,
+    "to": 23,
+    "wa": 6282154096727,
+    "opr_email": "stamet.tjilikriwut@bmkg.go.id"
+  },
+  {
+    "head_email": "burhanuddin.bmkg@gmail.com",
+    "icao": "WAFB",
+    "name": "Stasiun Meteorologi Toraja",
+    "from": 0,
+    "to": 0,
+    "wa": 628114209533,
+    "opr_email": "StaMet.toraja@BMKG.go.id"
+  },
+  {
+    "head_email": "dataopsmali@gmail.com",
+    "icao": "WATM",
+    "name": "Mali-Alor",
+    "from": 23,
+    "to": 0,
+    "wa": 628113816514,
+    "opr_email": "stamet.mali@bmkg.go.id"
+  },
+  {
+    "head_email": "agustoputra@gmail.com",
+    "icao": "WALL",
+    "name": "Sultan Aji Muhammad Sulaiman - Sepinggan",
+    "from": 22,
+    "to": 15,
+    "wa": 628115471145,
+    "opr_email": "meteo.balikpapan@gmail.com"
+  },
+  {
+    "head_email": "reygik.riskianera@bmkg.go.id",
+    "icao": "WAQC",
+    "name": "Maratua - Kab Berau",
+    "from": 0,
+    "to": 8,
+    "wa": 628115540409,
+    "opr_email": "bandaramaratua.dgca@dephub.go.id"
+  },
+  {
+    "head_email": "ptsp.kalbar@bmkg.go.id",
+    "icao": "WIOO",
+    "name": "Supadio - Pontianak",
+    "from": 0,
+    "to": 23,
+    "wa": 628115711567,
+    "opr_email": "stamet.supadio@bmkg.go.id"
+  },
+  {
+    "head_email": "blegur.thomas@gmail.com",
+    "icao": "WATM",
+    "name": "Mali - Alor",
+    "from": 0,
+    "to": 23,
+    "wa": 628113816514,
+    "opr_email": "stamet.mali@bmkg.go.id"
+  },
+  {
+    "head_email": "stamet.emalamo@bmkg.go.id",
+    "icao": "WAES",
+    "name": "Emalamo - Sanana",
+    "from": 0,
+    "to": 23,
+    "wa": 628114304008,
+    "opr_email": "stamet.emalamo@bmkg.go.id"
+  },
+  {
+    "head_email": "bmkg.lhokseumawe@gmail.com",
+    "icao": "WIMA",
+    "name": "Malikus Saleh - Lhokseumawe",
+    "from": 0,
+    "to": 23,
+    "wa": 628116785225,
+    "opr_email": "bmkg.lhokseumawe@gmail.com"
+  },
+  {
+    "head_email": "desy.ekawati@bmkg.go.id",
+    "icao": "WAFL",
+    "name": "Sultan Bantilan - Toli Toli",
+    "from": 0,
+    "to": 23,
+    "wa": 6287777349112,
+    "opr_email": "stamet.tolitoli@gmail.com"
+  },
+  {
+    "head_email": "darso.purnanto@bmkg.go.id",
+    "icao": "WAQJ",
+    "name": "Yuvai Semaring - Long Bawang",
+    "from": 23,
+    "to": 10,
+    "wa": "",
+    "opr_email": "stamet.longbawan@gmail.com"
+  },
+  {
+    "head_email": "ben.molle@bmkg.go.id",
+    "icao": "WAMS",
+    "name": "Miangas, Kepulauan Talaud",
+    "from": 0,
+    "to": 0,
+    "wa": 6281143200877,
+    "opr_email": "meteosamrat@gmail.com"
+  },
+  {
+    "head_email": "nanangchori69@gmail.com",
+    "icao": "WILL",
+    "name": "Radin Inten Ii - Lampung",
+    "from": 0,
+    "to": 23,
+    "wa": 6285788318980,
+    "opr_email": "databranti@gmail.com"
+  },
+  {
+    "head_email": "mega.sirait@bmkg.go.id",
+    "icao": "WIMM",
+    "name": "Kualanamu International Airport - Deli Serdang",
+    "from": 0,
+    "to": 23,
+    "wa": 6281397974910,
+    "opr_email": "stamet.kualanamu@bmkg.go.id"
+  },
+  {
+    "head_email": "fod.ternate@gmail.com",
+    "icao": "WAEK",
+    "name": "Pos Kuabang Kao",
+    "from": 23,
+    "to": 7,
+    "wa": 6281340481469,
+    "opr_email": "fod.ternate@gmail.com"
+  },
+  {
+    "head_email": "meteokupang@gmail.com",
+    "icao": "WATA",
+    "name": "Pos Meteo Atambua",
+    "from": 0,
+    "to": 5,
+    "wa": 6281139404263,
+    "opr_email": "meteokupang@gmail.com"
+  },
+  {
+    "head_email": "yotta.autika@bmkg.go.id",
+    "icao": "WIBB",
+    "name": "Sultan Syarif Kasim Ii - Pekanbaru",
+    "from": 0,
+    "to": 16,
+    "wa": 62811752050,
+    "opr_email": "AnalisaBmkgpku@gmail.com"
+  },
+  {
+    "head_email": "stamet.baarote@bmkg.go.id",
+    "icao": "WATR",
+    "name": "David Constantijn Saudale - Rote",
+    "from": 0,
+    "to": 23,
+    "wa": 6282147372771,
+    "opr_email": "stamet.dcsaudale@gmail.com"
+  },
+  {
+    "head_email": "teknisiyia@gmail.com",
+    "icao": "WAHH",
+    "name": "Adi Sutjipto - Yogyakarta",
+    "from": 0,
+    "to": 23,
+    "wa": 6288980656972,
+    "opr_email": "adimeteo96853@gmail.com"
+  },
+  {
+    "head_email": "dian.palupi@bmkg.go.id",
+    "icao": "WAHS",
+    "name": "Ahmad Yani - Semarang",
+    "from": 0,
+    "to": 23,
+    "wa": 6281329929789,
+    "opr_email": "fctayani@gmail.com"
+  },
+  {
+    "head_email": "aziz.alfarizi@bmkg.go.id",
+    "icao": "WAGK",
+    "name": "Beringin - Muara Teweh",
+    "from": 0,
+    "to": 23,
+    "wa": 6282138470926,
+    "opr_email": "bmg.muarahteweh@gmail.com"
+  },
+  {
+    "head_email": "meteorologiamahai@gmail.com",
+    "icao": "WAPA",
+    "name": "Amahai",
+    "from": 0,
+    "to": 23,
+    "wa": "6281248514535",
+    "opr_email": "meteorologiamahai@gmail.com"
+  },
+  {
+    "head_email": "gie155615@gmail.com",
+    "icao": "WARC",
+    "name": "Bandar Udara Ngloram - Cepu - Jawa Tengah",
+    "from": 0,
+    "to": 9,
+    "wa": 6281229478958,
+    "opr_email": "gie155615@gmail.com"
+  },
+  {
+    "head_email": "stamet.fatmawati@bmkg.go.id",
+    "icao": "WIGG",
+    "name": "Fatmawati Soekarno - Bengkulu",
+    "from": 0,
+    "to": 23,
+    "wa": 628117328773,
+    "opr_email": "stamet.fatmawati@bmkg.go.id"
+  },
+  {
+    "head_email": "raisanfikarjatmiko@gmail.com",
+    "icao": "WAMH",
+    "name": "Stasiun  Meteorologi  Kelas III Naha - Kepulauan Sangihe",
+    "from": 0,
+    "to": 0,
+    "wa": 6282251049145,
+    "opr_email": "stametnaha97008@gmail.com"
+  },
+  {
+    "head_email": "stamet.djalaluddin@bmkg.go.id",
+    "icao": "WAMG",
+    "name": "Djalaluddin - Gorontalo",
+    "from": 0,
+    "to": 23,
+    "wa": 628114340283,
+    "opr_email": "fodgtlo@gmail.com"
+  },
+  {
+    "head_email": "meteohlo2017@gmail.com",
+    "icao": "WAWW",
+    "name": "Haluoleo - Kendari",
+    "from": 0,
+    "to": 12,
+    "wa": 6281524163292,
+    "opr_email": "meteohlo2017@gmail.com"
+  },
+  {
+    "head_email": "forecasterpattimura@gmail.com",
+    "icao": "WAPP",
+    "name": "Pattimura - Ambon",
+    "from": 0,
+    "to": 23,
+    "wa": 6285243163953,
+    "opr_email": "forecasterpattimura@gmail.com"
+  },
+  {
+    "head_email": "anang.heriyanto@bmkg.go.id",
+    "icao": "WITT",
+    "name": "Sultan Iskandar Muda - Banda Aceh",
+    "from": 0,
+    "to": 23,
+    "wa": 628116788595,
+    "opr_email": "stamet.bandaaceh@bmkg.go.id"
+  },
+  {
+    "head_email": "layanan.bmkgjuanda@gmail.com",
+    "icao": "WARR",
+    "name": "Juanda - Surabaya",
+    "from": 0,
+    "to": 23,
+    "wa": 62895800300011,
+    "opr_email": "meteojud@gmail.com"
+  },
+  {
+    "head_email": "robbi.anugrah@bmkg.go.id",
+    "icao": "WIDN",
+    "name": "Raja Haji Fisabilillah - Tanjung Pinang",
+    "from": 0,
+    "to": 23,
+    "wa": 6289667988480,
+    "opr_email": "forecastertnj@gmail.com"
+  }
+]
